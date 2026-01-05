@@ -1,4 +1,5 @@
 🏥 Hospital Database Management System (SQL Project)
+
 📌 Project Overview
 This project focuses on designing and implementing a Hospital Database Management System using SQL to efficiently manage hospital operations such as patients, doctors, appointments, treatments, and billing.
 The system demonstrates how relational databases help store, organize, and analyze healthcare data for better decision-making.
